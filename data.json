@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Elbek", 
+        "lastname": "Khakimbekov",
+        "birthdate": "1999-03-31",
+        "work_place": "AL-JABR",
+        "income": [
+            {
+                "date": "2021-09",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            }, 
+            {
+                "date": "2021-10",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2021-11",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2021-12",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2022-01",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2022-02",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            }
+            
+        ]
+    },
+
+    {
+        "name": "Maksad", 
+        "lastname": "Kavlanov",
+        "birthdate": "2005-07-29",
+        "work_place": "Tesla Inc.",
+        "income": [
+            {
+                "date": "2021-07",
+                "income_amount": 30000543.67,
+                "tax": 3600065.24,
+                "organization": "Tesla Inc."
+            }, 
+            {
+                "date": "2021-10",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2021-11",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2021-12",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2022-01",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            },
+            {
+                "date": "2022-02",
+                "income_amount": 3000543.67,
+                "tax": 360065.24,
+                "organization": "AL-JABR"
+            }
+            
+        ]
+    },
+]
